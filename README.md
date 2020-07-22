@@ -1,3 +1,7 @@
-# The 10'th sprint of Yandex.Praktikum web-development course
-___
-### Version: 1.0.1: [Link](https://github.com/echoreverb/regexp-sprint)
+# Проектная работа #11
+
+В этой работе с помощью регулярных выражений валидируются поля формы: имя, e-mail, телефон и url-ссылка.
+
+## Ссылки
+
+v1.0.0: (https://github.com/echoreverb/regexp-sprint)
